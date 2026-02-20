@@ -5,8 +5,21 @@ const bio = ref({
   name: 'Derek Cameron',
   avatar:
     'https://api.dicebear.com/9.x/avataaars/svg?backgroundColor=b6e3f4&accessories[]&clothesColor=262e33&clothing=collarAndSweater,graphicShirt,hoodie,shirtCrewNeck&clothingGraphic[]&eyebrows=default&eyes=default&facialHair[]&hairColor=2c1b18&hatColor[]&mouth=twinkle&skinColor=ffdbb4&top=shortCurly&seed=Derek',
-  about: `I'm a passionate full-stack developer with experience building modern web applications. I specialize in Vue.js, React, and Node.js, and I love creating beautiful, user-friendly interfaces that make a difference. I'm also a passionate adjuct teacher at STC.`,
-  skills: ['Vue.js', 'React', 'Typescript', 'Node.js', 'Tailwind CSS'],
+  about: `I'm a full-time CIT student at South Texas College with experience in different programming languages and building modern web applications. I am skilled in C++, C#, Python, JavaScript, and SQL, and I enjoy learning new skills related to my field of study.`,
+  skills: [
+    'C++',
+    'C#',
+    'Python',
+    'JavaScript',
+    'SQL',
+    'Hardware Troubleshooting',
+    'Software Troubleshooting',
+    'Network Troubleshooting',
+    'Penetration Testing',
+    'OS Configuration',
+    'Virtualization',
+    'Network Hardening',
+  ],
   email: 'dcamero2@stu.southtexascollege.edu',
   location: 'Edinburg, Tx',
 })
