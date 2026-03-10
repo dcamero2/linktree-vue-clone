@@ -29,6 +29,13 @@ const profile = ref({
       icon: 'money',
       description: 'A website that divides expenses accordingly',
     },
+    {
+      id: 4,
+      title: 'Anime Roulette',
+      url: 'https://anime-roulette-machine.dcamero2.workers.dev/',
+      icon: 'roulette',
+      description: 'A website that generates anime recommendations',
+    },
   ],
 })
 </script>
